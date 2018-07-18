@@ -1,8 +1,8 @@
 ## Info
 
-Author: Vadim Demkiv<br/>
-Contact: vadim.demkiv@gmail.com<br/>
-Published on: June 12, 2016
+Authors: Harshit Srivastava<br/>
+         Aayush Sanjay Agarwal <br/>
+         Akhil Chandra Panchumarthi <br/>
 
 ## Abstract
 
@@ -30,40 +30,8 @@ Download the different components from the requirements, install Android Studio 
 Now create a projects folder in your AndroidDevelopment and copy the FoodUI
 project into it.
 
-## 3. Configuration
 
-The next step is to start Android Studio and open the FoodUI project. Change the
-value of the sdk.dir parameter and add a ndk.dir parameter and value in the file
-local.properties of the FoodUI project. This should be the previously mentioned.
-Also please note the spelling.
-It could look like this:
-
-```
-1 sdk.dir=C\:\\ownData\\AndroidDevelopment\\sdk
-2 ndk.dir=C\:\\ownData\\AndroidDevelopment\\android -ndk-r11c
-```
-
-Now try to sync the gradles. If something the error in figure 1 appears, click Attempt to install all packages in the popped up mask. Afterwards press the icon Sync Project with Gradle Files to sync all gradle files.
-
-![Screen Shot](_readme_images/sync_error.png) <br/>
-*Figure 1: Example for the errors if repositories are missing.*
-
-Now open the file projects/FoodUI/app/src/main/jni/Android.mk and change the
-parameter OPENCVROOT to the path - again, please note the spelling. It's possible,
-
-that the folder jni is not shown in the Android view within Android Studio. In
-this case switch to the project view.
-It could look like this:
-
-```
-OPENCVROOT:= C:\\ownData\\AndroidDevelopment\\OpenCV31-android-sdk
-```
-
-Then run the following function from the Android Studio menu in this order:
-1. Build/Clean Project
-2. Build/Make Project
-
-## 4. Testing the project
+## 3. Testing the project
 
 Now everything should be configured right and the project is ready to go. Eiter use your own smartphone - therefor you have to activate the developer tools and plug it in - or use the emulator within Android Studio. I tested it on my Sony Xperia Z3 with Android 6.0.1 and it works fine. Currently the settings in the gradles are as follows:
 
@@ -74,7 +42,3 @@ targetSdkVersion 23
 
 If you want to run this app on a lower Android version, you have to change these
 specifications accordingly to the desired sdk version in all gradle files. Though, keep in mind that the hardware requirements are tough with this implementation, so a modern smartphone is highly recommended.
-
-## 5. Final Word
-Thank you for your interest in my project and good luck with your plans. If you
-have any questions, dont't hesitate to ask.
