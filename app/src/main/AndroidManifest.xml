@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="vrlab.foodui">
+
+    <uses-permission android:name="android.permission.CAMERA" />
+
+    <uses-feature android:name="android.hardware.camera" />
+    <uses-feature android:name="android.hardware.camera.autofocus" />
+    <uses-feature android:name="android.hardware.camera.front" />
+    <uses-feature android:name="android.hardware.camera.front.autofocus" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/apple_i"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".First_Activity"
+            android:label="Food Nutrients App">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".FoodUiActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="Main Activity"
+            android:screenOrientation="landscape"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" />
+        <!--
+             ATTENTION: This was auto-generated to add Google Play services to your project for
+             App Indexing.  See https://g.co/AppIndexing/AndroidStudio for more information.
+        -->
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+
+        <activity
+            android:name=".MainActivity"
+            android:label="Food Nutrients App">
+        </activity>
+
+        <activity
+            android:name=".Settings"
+            android:label="Settings"
+          >
+        </activity>
+
+        <activity
+            android:name=".Display"
+            android:label="Display"
+            />
+        <activity
+            android:name=".HazardInput"
+            android:label="Hazard Input"
+            />
+        <activity
+            android:name=".Main2Activity"
+            android:label="Foodui Main"
+            />
+    </application>
+
+</manifest>

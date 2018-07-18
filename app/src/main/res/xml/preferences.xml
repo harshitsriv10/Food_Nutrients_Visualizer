@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <SwitchPreference
+        android:key="Calorie"
+        android:title="Calorie"
+        android:defaultValue="true"/>
+    <SwitchPreference
+        android:key="Protein"
+        android:title="Protein"
+        android:defaultValue="true"/>
+    <SwitchPreference
+        android:key="Carbohydrate"
+        android:title="Carbohydrate"
+        android:defaultValue="true"/>
+    <SwitchPreference
+        android:key="Fat"
+        android:title="Fat"
+        android:defaultValue="true"/>
+    <SwitchPreference
+        android:key="Weight"
+        android:title="Weight"
+        android:defaultValue="true"/>
+    <SwitchPreference
+        android:key="HealthHazard"
+        android:title="Health Hazard"
+        android:defaultValue="true"/>
+    <Preference android:title="Restart App"
+        android:key="save_button"
+        />
+</PreferenceScreen>

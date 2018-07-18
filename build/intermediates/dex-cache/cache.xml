@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/durgesh/Documents/FoodUI-master/app/build/intermediates/exploded-aar/com.oguzdev/CircularFloatingActionMenu/1.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="607d961caf1a59b6e782724654c1f3229e036c20">
+        <dex dex="/home/durgesh/Documents/FoodUI-master/app/build/intermediates/pre-dexed/debug/com.oguzdev-CircularFloatingActionMenu-1.0.2_ffd1fc9aed47bd45213366a619a5d96881f21c4e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/durgesh/Music/FoodUI-master/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/home/durgesh/Music/FoodUI-master/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.4.0_a410e21958257c765d640a2600e351e017978b8b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/durgesh/Documents/FoodUI-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/home/durgesh/Documents/FoodUI-master/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.4.0_f164eb64f091be5a074b58b5cb1632cf51e438c9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/durgesh/Music/FoodUI-master/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/home/durgesh/Music/FoodUI-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.4.0_c3a9ab2dcd53bc4d059762256fd6bb0fc55ff042.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/durgesh/Documents/FoodUI-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4022261eeea0d92eb2997a68d2c1f084a16abad9">
+        <dex dex="/home/durgesh/Documents/FoodUI-master/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-9.0.2_2e44f05f089dc1bf0a073d40685d6ac6443de7ec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/durgesh/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/home/durgesh/Documents/FoodUI-master/app/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_059e7e48e785fab7ca143ed756eaf0728b97a6e9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/durgesh/Music/FoodUI-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="aec1bc54964a85d851c2c1b1cb7f90f7dbd755ab">
+        <dex dex="/home/durgesh/Music/FoodUI-master/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-9.0.2_7925fc664cbcaecffab672c9fe4477ab101c2109.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/durgesh/Documents/FoodUI-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/home/durgesh/Documents/FoodUI-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.4.0_f4ea0ef6c88f115a77bed2aaa1078b41f46493a6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/durgesh/Music/FoodUI-master/app/build/intermediates/exploded-aar/com.yahoo.mobile.client.android.util.rangeseekbar/rangeseekbar-library/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c365e428c4190791856e37f7fcee4261fd46632f">
+        <dex dex="/home/durgesh/Music/FoodUI-master/app/build/intermediates/pre-dexed/debug/com.yahoo.mobile.client.android.util.rangeseekbar-rangeseekbar-library-0.1.0_85fa2d983706d0da8716f88f0b836577ebfbaf22.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/durgesh/Music/FoodUI-master/app/build/intermediates/exploded-aar/com.android.support/support-v13/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2bf893856577f5038c0b8007a43fda3b3c5beb23">
+        <dex dex="/home/durgesh/Music/FoodUI-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-v13-23.4.0_0b39e6e4823ac3b072a8fa2c9da56addb5b30a68.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/durgesh/Documents/FoodUI-master/app/build/intermediates/exploded-aar/com.android.support/support-v13/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="be09545b7e6ff322c7286d2e80bed3b75b76c529">
+        <dex dex="/home/durgesh/Documents/FoodUI-master/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_33d0f83623dde46275e5c0a0dfd59d9c19621b72.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/durgesh/Documents/FoodUI-master/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d9ecde39b460470e655de6e47c05573d2d5a8bfb">
+        <dex dex="/home/durgesh/Documents/FoodUI-master/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-23.4.0_7f268de3d122ba1a58c2d614844395af3e48953c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/durgesh/Music/FoodUI-master/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="/home/durgesh/Music/FoodUI-master/app/build/intermediates/pre-dexed/debug/com.android.support-design-23.4.0_b839989d19f66b06f81be9c09939d530f191e32c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/durgesh/Music/FoodUI-master/app/build/intermediates/exploded-aar/com.android.support/support-v13/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="be09545b7e6ff322c7286d2e80bed3b75b76c529">
+        <dex dex="/home/durgesh/Music/FoodUI-master/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_862c8cc0b426bb95f27d05049f64aac326111bce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/durgesh/Documents/FoodUI-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d900f2a1ff098cac8befe6c023d723e9afb154be">
+        <dex dex="/home/durgesh/Documents/FoodUI-master/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-appindexing-9.0.2_2d64a85a7befc3f22e53d0078f5b7779532e2b02.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/durgesh/Music/FoodUI-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="94d9cedd04b124aed044ac71c451a292856d854c">
+        <dex dex="/home/durgesh/Music/FoodUI-master/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-9.0.2_9dc1d4179d66dd3cb673c0e5c759b4539cdcbc43.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/durgesh/Documents/FoodUI-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="aec1bc54964a85d851c2c1b1cb7f90f7dbd755ab">
+        <dex dex="/home/durgesh/Documents/FoodUI-master/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-9.0.2_e39603c79f8941e212fa0c3fada0b8cc50e5496d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/durgesh/Documents/FoodUI-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/home/durgesh/Documents/FoodUI-master/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_ca64045199ae2a1695c74ddd7c067282817c752b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/durgesh/Music/FoodUI-master/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/home/durgesh/Music/FoodUI-master/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.4.0_1233f96440c0f1f71cd297a882883d71c5d9b940.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/durgesh/Documents/FoodUI-master/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/home/durgesh/Documents/FoodUI-master/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.4.0_d9a493430759180662eb4bb4df9b5f1e04cac8e6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/durgesh/Music/FoodUI-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d900f2a1ff098cac8befe6c023d723e9afb154be">
+        <dex dex="/home/durgesh/Music/FoodUI-master/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-appindexing-9.0.2_311096c3a618092189de005c3d8f39260d1c1035.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/durgesh/Music/FoodUI-master/app/build/intermediates/exploded-aar/FoodUI-master.libraries/opencv/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="707eed58f267fd53f9059e650c461a08de44be8e">
+        <dex dex="/home/durgesh/Music/FoodUI-master/app/build/intermediates/pre-dexed/debug/FoodUI-master.libraries-opencv-unspecified_7d08b309e710f4b156911fc2c776797f3412ae6b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/durgesh/Music/FoodUI-master/app/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/home/durgesh/Music/FoodUI-master/app/build/intermediates/pre-dexed/debug/com.android.support.constraint-constraint-layout-1.0.2_5710ca47cef581d863cd89ba6031eb1aa28727a7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/durgesh/Music/FoodUI-master/app/build/intermediates/exploded-aar/com.oguzdev/CircularFloatingActionMenu/1.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="607d961caf1a59b6e782724654c1f3229e036c20">
+        <dex dex="/home/durgesh/Music/FoodUI-master/app/build/intermediates/pre-dexed/debug/com.oguzdev-CircularFloatingActionMenu-1.0.2_1b1472278445bfd3e5daf12c1abeb6372fd1a956.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/durgesh/Music/FoodUI-master/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9919563cffd8e3732e944d3c437d4b9575a08448">
+        <dex dex="/home/durgesh/Music/FoodUI-master/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-common-9.0.2_2d0b1c2731cacda258c19fbc5023617fbdabe1f5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/durgesh/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/home/durgesh/Documents/FoodUI-master/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_4e396521627ac98cfd23c49123d9e5ffbfc16632.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/durgesh/Documents/FoodUI-master/app/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/home/durgesh/Documents/FoodUI-master/app/build/intermediates/pre-dexed/debug/com.android.support.constraint-constraint-layout-1.0.2_4b0cc7693afb3eff8639a6cbb30ace7c5d858fd4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/durgesh/Documents/FoodUI-master/app/build/intermediates/exploded-aar/com.yahoo.mobile.client.android.util.rangeseekbar/rangeseekbar-library/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c365e428c4190791856e37f7fcee4261fd46632f">
+        <dex dex="/home/durgesh/Documents/FoodUI-master/app/build/intermediates/pre-dexed/debug/com.yahoo.mobile.client.android.util.rangeseekbar-rangeseekbar-library-0.1.0_8cac36fec82a59f32a45caac0c1ad26e17a9d5aa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/durgesh/Music/FoodUI-master/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d9ecde39b460470e655de6e47c05573d2d5a8bfb">
+        <dex dex="/home/durgesh/Music/FoodUI-master/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-23.4.0_96c6f944b5d636f7d1c5f8b6be9f1ce6ed8db6a7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/durgesh/Documents/FoodUI-master/app/build/intermediates/exploded-aar/FoodUI-master.libraries/opencv/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="707eed58f267fd53f9059e650c461a08de44be8e">
+        <dex dex="/home/durgesh/Documents/FoodUI-master/app/build/intermediates/pre-dexed/debug/FoodUI-master.libraries-opencv-unspecified_164537a6db91753fb61e607fae23fa69fdb580b1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/durgesh/Music/FoodUI-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/home/durgesh/Music/FoodUI-master/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.4.0_69728d00156d3ae03c1f1a82f73471961fd049f4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/durgesh/Music/FoodUI-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/home/durgesh/Music/FoodUI-master/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_267b338e12dd091520fb769e22a0e60066395192.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/durgesh/Documents/FoodUI-master/app/build/intermediates/exploded-aar/com.android.support/support-v13/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2bf893856577f5038c0b8007a43fda3b3c5beb23">
+        <dex dex="/home/durgesh/Documents/FoodUI-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-v13-23.4.0_412246d8abe06cb796c13e1d06723adf8c8c67d0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/durgesh/Documents/FoodUI-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="94d9cedd04b124aed044ac71c451a292856d854c">
+        <dex dex="/home/durgesh/Documents/FoodUI-master/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-9.0.2_1c63072bba2b1ed5eff175cca507d8d3701d7fea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/durgesh/Music/FoodUI-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/home/durgesh/Music/FoodUI-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.4.0_b77a15e7591377553123ddebbc035105490b3ecb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/durgesh/Documents/FoodUI-master/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="/home/durgesh/Documents/FoodUI-master/app/build/intermediates/pre-dexed/debug/com.android.support-design-23.4.0_41fd665109243220cfdc9f3e47f68b16f392a111.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/durgesh/Documents/FoodUI-master/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/home/durgesh/Documents/FoodUI-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.4.0_7f3679f99e58f6ce895f662c54f19ffe6ee81e9c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/durgesh/Documents/FoodUI-master/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9919563cffd8e3732e944d3c437d4b9575a08448">
+        <dex dex="/home/durgesh/Documents/FoodUI-master/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-common-9.0.2_bb3ad00bae98f0504ac959360677cef8b2f52c36.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/durgesh/Music/FoodUI-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4022261eeea0d92eb2997a68d2c1f084a16abad9">
+        <dex dex="/home/durgesh/Music/FoodUI-master/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-9.0.2_078142c821834311185d3db3936617d527dba543.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/durgesh/Documents/FoodUI-master/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/home/durgesh/Documents/FoodUI-master/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.4.0_7b587832e9835c207dd8dc41d394657a26781b17.jar" />
+    </item>
+
+</items>
